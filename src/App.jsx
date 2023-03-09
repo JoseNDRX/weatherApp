@@ -12,8 +12,7 @@ const App = () => {
   // info para URL
   const endPoint = "https://api.openweathermap.org/data/2.5/weather?"
   const apiKey = "435b2277889c0ab1c257ce3f20554731"
-  const lat = ""
-  const lon = ""
+
   
   useEffect(()=>{
     // funciona la localizacion?
